@@ -1,4 +1,4 @@
-# [Restaurant Reservation Capstone](https://restraunt-frontend.vercel.app/dashboard)
+# [Restaurant Reservation Capstone](https://restaurant-reservation-jf6u.onrender.com)
 
 ## Summary
 
